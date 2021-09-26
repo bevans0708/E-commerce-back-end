@@ -1,5 +1,8 @@
 # E-Commerce Back-End
 
+   ## Link to Video Walkthrough
+   https://www.youtube.com/watch?v=cfDKh22x1r4
+
    ## Description
    This project is learning how to setup a back-end for a website that deals with selling products.
 
